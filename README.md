@@ -1,12 +1,13 @@
-\### Content
+# Aspects-of-the-normal-state-resistivity-of-cuprate-superconductors-Bi2201-Tl2201-and-Hg1201
+Supplemental material for "Aspects of the normal state resistivity of cuprate superconductors Bi2201, Tl2201 and Hg1201". See Zenodo for the official publication: https://doi.org/10.5281/zenodo.15306959
+
+### Content
+
+#### Python
 
 
 
-\#### Python
-
-
-
-This is supplemental material for the paper "Aspects of the normal state resistivity of cuprate superconductors Bi2201, Tl2201 and Hg1201". It includes data (stored as polynomial coefficients) and six Jupyter notebooks (the .ipynb files) to read the data for Tl2201 Model A, Tl2201 Model B, Bi2201, Hg1201, LSCO and BSLCO. 
+This is supplemental material for our recent paper "Aspects of the normal state resistivity of cuprate superconductors Bi2201, Tl2201 and Hg1201", along with some results for systems from the older paper "Aspects of the normal state resistivity of cuprate superconductors". It includes data (stored as polynomial coefficients) and six Jupyter notebooks (the .ipynb files) to read the data for Tl2201 Model A, Tl2201 Model B, Bi2201, Hg1201, LSCO and BSLCO. 
 
 
 
@@ -26,11 +27,11 @@ Hg1201 data is located in Hg1201data.zip
 
 
 
-Place the relevant data files in the same folder as their Jupyter notebooks for import. \*\*These notebooks are designed to be very easy to use even if you do not read Python.\*\* Simply open up the notebook, press run, wait 10 minutes or so and scroll to the bottom where it says "SKIP HERE FOR RESULTS". We provide spectral functions, the imaginary part of the Dyson self energy, and resistivities. There is also an interpolation tool at the very bottom for estimating resistivities at different densities than those provided.
+Place the relevant data files in the same folder as their Jupyter notebooks for import. **These notebooks are designed to be very easy to use even if you do not read Python.** Simply open up the notebook, press run, wait 10 minutes or so and scroll to the bottom where it says "SKIP HERE FOR RESULTS". We provide spectral functions, the imaginary part of the Dyson self energy, and resistivities. There is also an interpolation tool at the very bottom for estimating resistivities at different densities than those provided.
 
 
 
-\#### Mathematica
+#### Mathematica
 
 
 
@@ -38,7 +39,7 @@ In addition to our Python programs, the resistivity data from larger system size
 
 
 
-\### Details
+### Details
 
 
 
@@ -52,7 +53,7 @@ The larger resistivity calculations shown in the Mathematica files and in the pa
 
 
 
-\### Papers:
+### Papers:
 
 
 
